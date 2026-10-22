@@ -35,7 +35,7 @@ Install and launch:
 ```bash
 python -m pip install --upgrade pip
 pip install -r requirements.txt
-streamlit run app.py
+streamlit run SauravKumar_CyberTrace.py
 ```
 
 Open the local URL printed by Streamlit, usually `http://localhost:8501`.

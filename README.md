@@ -50,10 +50,10 @@ To push from a local folder after creating an empty GitHub repository, run the f
 
 ```bash
 git init
-git add app.py README.md requirements.txt
+git add SauravKumar_CyberTrace.py README.md requirements.txt
 git commit -m "Update CyberTrace"
 git branch -M main
-git remote add origin https://github.com/YOUR_USERNAME/CyberTrace-FileMetadataScanner.git
+git remote add origin https://github.com/sauravinfosec/CyberTrace.git
 git push -u origin main
 ```
 
